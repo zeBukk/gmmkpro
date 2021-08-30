@@ -1,5 +1,3 @@
-# gmmkpro
-
 Converting mycustomqmkconfig.json file to key.c file
 qmk json2c "PATH NAME HERE\mycustomgmmkpro.json"
 
