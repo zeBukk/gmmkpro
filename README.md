@@ -1,3 +1,5 @@
+#qmk firmware for gmmkpro with knob function
+
 Converting mycustomqmkconfig.json file to key.c file
 qmk json2c "PATH NAME HERE\mycustomgmmkpro.json"
 
